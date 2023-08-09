@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Adithya4141/Adithya4141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Hi there 👋
+ I'm D.Niraja Adithya 
+- 🔭 I’m currently working on Deep learning.
+- 🌱 I’m currently learning NLP.
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with many things.
+- 💬 Ask me about Tech,Philosophy,UPSC.
+- 📫 How to reach me: 20341a0440@gmrit.edu.in.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 -->
